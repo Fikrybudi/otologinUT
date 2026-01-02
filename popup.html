@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pengaturan MyUT</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      width: 250px;
+      padding: 10px;
+      text-align: center;
+    }
+    h3 {
+      margin-top: 0;
+    }
+    input[type="text"] {
+      width: 90%;
+      padding: 5px;
+      margin-bottom: 10px;
+    }
+    button {
+      width: 100%;
+      padding: 8px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+    #status {
+      margin-top: 10px;
+      font-size: 12px;
+      color: green;
+    }
+    label {
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <h3>Pengaturan MyUT</h3>
+  <label for="nimInput">NIM Anda:</label>
+  <input type="text" id="nimInput" placeholder="Masukkan NIM Anda...">
+  
+  <div>
+    <input type="checkbox" id="autoClickCheck" />
+    <label for="autoClickCheck">Klik "Masuk" otomatis</label>
+  </div>
+  
+  <br/>
+  <button id="saveButton">Simpan</button>
+  <div id="status"></div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
