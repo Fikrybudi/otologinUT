@@ -11,7 +11,7 @@ Otoinput NIM dan Otologin MyUT. Ekstensi ini membantu mahasiswa Universitas Terb
 - **Ringan & Aman**: Menggunakan penyimpanan lokal browser Anda.
 
 ## Screenshot
-<img width="391" height="308" alt="Screenshot_2" src="https://github.com/user-attachments/assets/76586386-f979-4e7e-b148-7528e60b01d6" />
+<img width="393" height="316" alt="Screenshot_3" src="https://github.com/user-attachments/assets/cf22bdc3-053a-4085-85ed-4d24340df369" />
 
 
 ## Instalasi
