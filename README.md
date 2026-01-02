@@ -10,6 +10,10 @@ Otoinput NIM dan Otologin MyUT. Ekstensi ini membantu mahasiswa Universitas Terb
 - **Otologin**: Isi otomatis kolom NIM dan login dengan cepat.
 - **Ringan & Aman**: Menggunakan penyimpanan lokal browser Anda.
 
+## Screenshot
+<img width="391" height="308" alt="Screenshot_2" src="https://github.com/user-attachments/assets/76586386-f979-4e7e-b148-7528e60b01d6" />
+
+
 ## Instalasi
 1. Unduh atau clone repository ini.
 2. Buka Google Chrome dan navigasi ke `chrome://extensions/`.
